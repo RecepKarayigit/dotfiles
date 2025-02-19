@@ -1,2 +1,2 @@
-# dotfiles-public
+# dotfiles
 My personal dotfiles
